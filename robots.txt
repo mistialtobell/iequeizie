@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://einaikaiqu.yjlblog.top/sitemap.xml
